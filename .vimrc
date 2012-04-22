@@ -1,6 +1,6 @@
 if has("gui_macvim")
 	set go=aAce
-	set transparency=10
+	set transparency=3
 	set guifont=Monaco:h14
     set guifontwide="LiSung":h18
 endif
